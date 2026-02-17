@@ -1,16 +1,12 @@
-## Hi there 👋
+# Summary
 
-<!--
-**iralaleonel/iralaleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Studies in Physics (UNAM) · Preparation for admission to the Balseiro Institute (2027)
+* Training in Software and Artificial Intelligence Architectures (Platzi)
+* Data Analyst at Anyway S.A. (2020 – 2025)
+---
+###  Technical Competencies and Research Interests
+* Python ecosystem, SQL, and Neo4j for Data Science · GCP · GIS analysis with GEE and QGIS
+* Machine Learning · Neural Networks · LLM · RAG · MCP
+---
+* Biomaterials Innovation Award, BBVA Argentina (2019)
+* Languages: Spanish, English, Portuguese, Italian
