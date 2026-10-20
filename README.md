@@ -1,16 +1,37 @@
-## Hi there 👋
+`~/about`
 
-<!--
-**iralaleonel/iralaleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Irala Leonel
+physics · data · sciml
+spanish · portuguese · english
+```
 
-Here are some ideas to get you started:
+`~/building`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+ampacity       cli · mpc
+               real-time heat dissipation of high-voltage conductors
+               from real weather and terrain conditions.
+               deterministic physical engine + neural networks
+               for topographic downscaling.
+               free, open source, runs in your terminal.
+```
+
+`~/background`
+
+```text
+├── education   physics, Universidad de Buenos Aires
+│               calculus · data analysis · statistics
+├── work        data analysis
+│               dashboards · automations · multi-source integration
+│               reports for decision-making · technical leadership
+├── training    data engineering & AI architectures
+├── code        python · r · sql · c++ · go · rust · javascript · node.js
+├── focus       scientific ML · physics-informed neural networks
+│               geospatial analysis · computational physics
+└── award       BBVA Award, 2019
+                biocomposite from sunflower seed husks as a wood
+                substitute, made from agro-industrial waste to reduce
+                pressure on native forests.
+                jury: UCA, USAL, UDESA, IAE, AmCham, Embassy of Spain.
+```
