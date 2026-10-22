@@ -1,30 +1,11 @@
 `~/about`
-
 ```text
-Irala Leonel
-physics · data · sciml
-spanish · portuguese · english
+Irala Leonel > physics/data/sciml
 ```
-
-`~/building`
-
-```text
-ampacity       cli · mpc
-               real-time heat dissipation of high-voltage conductors
-               from real weather and terrain conditions.
-               deterministic physical engine + neural networks
-               for topographic downscaling.
-               free, open source, runs in your terminal.
-```
-
 `~/background`
-
 ```text
 ├── education   physics, Universidad de Buenos Aires
 │               calculus · data analysis · statistics
-├── work        data analysis
-│               dashboards · automations · multi-source integration
-│               reports for decision-making · technical leadership
 ├── training    data engineering & AI architectures
 ├── code        python · r · sql · c++ · go · rust · javascript · node.js
 ├── focus       scientific ML · physics-informed neural networks
@@ -34,4 +15,13 @@ ampacity       cli · mpc
                 substitute, made from agro-industrial waste to reduce
                 pressure on native forests.
                 jury: UCA, USAL, UDESA, IAE, AmCham, Embassy of Spain.
+```
+`~/building`
+```text
+ampacity       cli · mpc
+               real-time heat dissipation of high-voltage conductors
+               from real weather and terrain conditions.
+               deterministic physical engine + neural networks
+               for topographic downscaling.
+               free, open source, runs in your terminal.
 ```
