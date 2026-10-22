@@ -13,15 +13,15 @@ Irala Leonel > physics · data · sciml
 │               geospatial analysis · computational physics
 └── award       BBVA Award, 2019
                 biocomposite from sunflower seed husks as a wood
-                substitute, made from agro-industrial waste to reduce
-                pressure on native forests.
-                jury: UCA, USAL, UDESA, IAE, AmCham, Embassy of Spain.
+                substitute, made from agro-industrial waste to 
+                reduce pressure on native forests.
+                jury: UCA, USAL, UDESA, IAE, AmCham, Emb Spain.
 ```
 `~/building`
 ```text
-├── cli        real-time heat dissipation of high-voltage conductors
-               from real weather and terrain conditions.
-               deterministic physical engine + neural networks
-               for topographic downscaling.
+├── cli        real-time heat dissipation of high-voltage 
+               conductors from real weather and terrain 
+               conditions. deterministic physical engine 
+               + neural networks for topographic downscaling.
                free, open source, runs in your terminal.
 ```
