@@ -1,6 +1,6 @@
 `~/about`
 ```text
-Irala Leonel > physics/data/sciml
+Irala Leonel > physics · data · sciml
 ```
 `~/background`
 ```text
