@@ -18,7 +18,7 @@ Irala Leonel > physics/data/sciml
 ```
 `~/building`
 ```text
-ampacity       cli / real-time heat dissipation of high-voltage conductors
+cli            real-time heat dissipation of high-voltage conductors
                from real weather and terrain conditions.
                deterministic physical engine + neural networks
                for topographic downscaling.
