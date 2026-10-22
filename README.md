@@ -7,7 +7,8 @@ Irala Leonel > physics · data · sciml
 ├── education   physics, Universidad de Buenos Aires
 │               calculus · data analysis · statistics
 ├── training    data engineering & AI architectures
-├── code        python · r · sql · c++ · go · rust · javascript · node.js
+├── code        hard: python · r · sql · c++ · go · rust
+│               other: everything is possible
 ├── focus       scientific ML · physics-informed neural networks
 │               geospatial analysis · computational physics
 └── award       BBVA Award, 2019
