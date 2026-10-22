@@ -1,9 +1,9 @@
 `~/about`
 ```text
 Irala Leonel > physics · data · sciml
-```
-`~/background`
-```text
+
+~/background
+
 ├── education   physics, Universidad de Buenos Aires
 │               calculus · data analysis · statistics
 ├── training    data engineering & AI architectures
@@ -16,9 +16,9 @@ Irala Leonel > physics · data · sciml
                 substitute, made from agro-industrial waste to 
                 reduce pressure on native forests.
                 jury: UCA, USAL, UDESA, IAE, AmCham, Emb Spain.
-```
-`~/building`
-```text
+
+~/building
+
 ├── cli        real-time heat dissipation of high-voltage 
                conductors from real weather and terrain 
                conditions. deterministic physical engine 
